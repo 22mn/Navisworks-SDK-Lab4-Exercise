@@ -1,0 +1,6 @@
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab4_Exercise\Lab4_Exercise\bin\Debug\Lab4_Exercise.dll
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab4_Exercise\Lab4_Exercise\bin\Debug\Lab4_Exercise.pdb
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab4_Exercise\Lab4_Exercise\obj\Debug\Lab4_Exercise.csprojAssemblyReference.cache
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab4_Exercise\Lab4_Exercise\obj\Debug\Lab4_Exercise.csproj.CoreCompileInputs.cache
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab4_Exercise\Lab4_Exercise\obj\Debug\Lab4_Exercise.dll
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab4_Exercise\Lab4_Exercise\obj\Debug\Lab4_Exercise.pdb
